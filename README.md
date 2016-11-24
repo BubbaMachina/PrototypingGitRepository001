@@ -7,3 +7,4 @@ The readme file is for showing peopel when the go to the repository what to do
 <h1> You should commit to desktop first </h1>
 <p>Hello<p>
 <p> **This line is important**</p>
+## This is a header 2
